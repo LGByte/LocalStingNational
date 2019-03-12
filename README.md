@@ -23,6 +23,10 @@ sudo pip3 install xlrd
 ```
 pip3 install biplist
 ```
+### 2.4  install   xlwt
+```
+pip3 install xlwt
+```
 3 将对应的fun2.sh在Xcode  Build Phases ->func2.sh路径配置好
 按照demo 方式配置 "${SRCROOT}/IDCMExchange/Resource/func.sh"
 
