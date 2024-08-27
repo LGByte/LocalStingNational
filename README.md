@@ -9,6 +9,7 @@ Python command line tool for conversion between iOS strings files and excel file
 
 1 先安装python3 和pip3 
 详见此博客  https://www.cnblogs.com/ace722/p/9697331.html
+
 2 安装Python依赖库
 ### 2.1.Install pyexcelerator
 ```
